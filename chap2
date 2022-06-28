@@ -1,0 +1,7 @@
+commands covered:
+
+1. git init
+2. git status
+3. git add file_ka_naam
+4. git commit -m "Initial Commit"
+5. git log (to see what we commit)
