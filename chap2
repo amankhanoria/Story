@@ -1,7 +1,12 @@
-commands covered:
+commands covered
 
 1. git init
 2. git status
 3. git add file_ka_naam
 4. git commit -m "Initial Commit"
 5. git log (to see what we commit)
+6. git add . (to add all document)
+7. git diff file_ka_naam
+8. git checkout chap1.txt (to make file to its prev state.)
+9. git remote add origin https://github.com/amankhanoria/Story.git
+10. git push -u origin master 
